@@ -22,3 +22,7 @@ A Basic playground for AI Agents with Ollama
 7- Run agent
 - ```$ python agent.py```
 
+
+## STEP2 - RAG
+8- install liberaries
+- ```pip install langchain langchain-community python-dotenv pypdf chromadb```
